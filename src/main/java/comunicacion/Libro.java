@@ -30,7 +30,7 @@ public class Libro extends Escrito{
 		r+=this.getPaginas()+"\n";
 		r+=co_autor+"\n";
 		r+=editorial+"\n";
-		r+=edicion+"\n";
+		r+=edicion;
 		return r;
 		}
 	

@@ -34,7 +34,7 @@ public class Tesis extends Escrito{
 		r+=idea+"\n";
 		r+=argumentos.length+"\n";
 		r+=conclusion+"\n";
-		r+=referencias+"\n";
+		r+=referencias;
 		return r;
 		}
 	
